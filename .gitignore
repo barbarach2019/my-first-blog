@@ -1,0 +1,8 @@
+*.pyc
+*~
+__pycache__
+wroclaw2019
+db.sqlite3
+/static
+.DS_Store
+
